@@ -1,0 +1,19 @@
+{
+    "key": "like",
+    "name": "Like",
+    "description": "Adds a button to posts which when clicked sends a short notification to the author.",
+    "authors": [
+        {
+            "name": "Robin Jurinka" "Dilip",
+            "homepage": "open.vanillaforums.com/profile/r-j"
+        }
+    ],
+    "documentationUrl": "https://github.com/R-J/kick/blob/master/README.md",
+    "hasLocale": true,
+    "license": "MIT",
+    "mobileFriendly": true,
+    "pluginUrl": "https://github.com/r-j/kick",
+    "settingsUrl": "/settings/like",
+    "type": "addon",
+    "version": "0.3.0"
+}

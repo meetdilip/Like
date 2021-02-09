@@ -1,0 +1,28 @@
+{
+    "type": "addon",
+    "key": "rj-like",
+    "name": "I Like!",
+    "description": "Just another \"I Like this!\" plugin",
+    "license": "MIT",
+    "version": "0.1.0",
+    "pluginUrl": "https://github.com/r-j/rj-like",
+    "authors": [
+        {
+            "name": "Robin Jurinka",
+            "homepage": "https://open.vanillaforums.com/profile/r_j"
+        }
+    ],
+    "priority": 10,
+    "className": "LikePlugin",
+    "registerPermissions": {
+        "Plugins.RJLike.Add": 0,
+        "Plugins.RJLike.View": 1
+    },
+    "hasLocale": true,
+    "mobileFriendly": true,
+    "usePopupSettings": true,
+    "requiredTheme": false,
+    "requiredPlugin": false,
+    "allowDisable": true,
+    "hidden": false
+}
